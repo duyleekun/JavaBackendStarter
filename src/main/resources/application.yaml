@@ -1,0 +1,13 @@
+demo:
+  dev:
+    sendEmail: false
+    run-as-token: HAHA123
+spring:
+  jpa:
+    show-sql: true
+  session:
+    jdbc:
+      initialize-schema: ALWAYS
+    store-type: jdbc
+  datasource:
+#    url: "jdbc:h2:~/demo.h2db;AUTO_SERVER=TRUE"

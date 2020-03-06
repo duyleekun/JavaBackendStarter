@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "demo.dev.runAsToken",
+      "type": "java.lang.String",
+      "description": "Description for demo.dev.runAsToken."
+    },
+    {
+      "name": "demo.dev.sendEmail",
+      "type": "java.lang.Boolean",
+      "description": "Description for demo.dev.sendEmail."
+    }
+  ] }
