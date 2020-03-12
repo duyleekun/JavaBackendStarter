@@ -16,6 +16,8 @@ This is a training repository which leverages following topics to produce clean 
 
 - [Ultimate JPA @Query guide](https://thoughts-on-java.org/spring-data-jpa-query-annotation/)
 
+- [Ultimate JPA @Query guide v2](https://docs.spring.io/spring-data/data-jpa/docs/current/reference/html/#jpa.query-methods.at-query)
+
 - [Ultimate JPA Query without @Query guide using `query method`](https://docs.spring.io/spring-data/data-jpa/docs/current/reference/html/#jpa.query-methods)
 
 
